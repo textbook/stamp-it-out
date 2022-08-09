@@ -1,10 +1,15 @@
 {
   "name": "stamp-it-out",
   "version": "0.1.0",
-  "description": "",
+  "description": "Starting point for a TDD journey through an evolving tax",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
+  },
+  "engines": {
+    "node": "18",
+    "npm": "8"
   },
   "keywords": [],
   "author": "Jonathan Sharpe <mail@jonrshar.pe> (https://hello.jonrshar.pe/)",
