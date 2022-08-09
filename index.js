@@ -1,1 +1,3 @@
-export function implementation() {}
+export function implementation() {
+    return "Hello, world!"
+}

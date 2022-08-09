@@ -5,6 +5,6 @@ import { implementation } from "./index.js";
 
 describe("implementation", () => {
     it("can be called", () => {
-        assert.equal(implementation(), undefined);
+        assert.equal(implementation(), "Hello, world!");
     });
 });
