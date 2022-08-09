@@ -25,7 +25,7 @@ You don't need to know anything up front, but for reference:
 
 ## Setup
 
-[Clone] this repository, navigate to the relevant directory then run the tests:
+[Fork and clone] this repository, navigate to the relevant directory then run the tests:
 
 ```shell
 $ npm test
@@ -61,7 +61,7 @@ If you see `node: bad option: --test`, you're running the wrong version of Node 
 
 [assert]: https://nodejs.org/api/assert.html
 
-[clone]: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+[fork and clone]: https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 [js-tdd-ftw]: https://blog.jonrshar.pe/2020/Aug/31/js-tdd-ftw.html
 
